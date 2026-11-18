@@ -1,0 +1,1 @@
+{"name":"Mi Mes · Control de gastos","short_name":"Mi Mes","description":"Presupuesto, compras y evolución de gastos personales","lang":"es","start_url":"./","scope":"./","display":"standalone","background_color":"#FAF8F7","theme_color":"#DBD3DC","icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
